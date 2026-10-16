@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "AI Overview Industry Study: which sources Google's AI Overview cites across six industries",
+  "version": "1.0.0",
+  "publication_date": "2026-06-12",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gunesoglu, Minel",
+      "affiliation": "Is My Brand in AI",
+      "orcid": "0009-0009-4823-6016"
+    }
+  ],
+  "description": "<p>Thirty \"best [category]\" buyer searches, five in each of six industries (software, consumer electronics, home and appliances, finance and insurance, health and personal care, auto and travel), were run once each in Google on 11 and 12 June 2026 with US English settings (<code>gl=us</code>, <code>hl=en</code>). Where an AI Overview appeared, every source in its panel was recorded by title or brand and given a site type by hand: Reddit, other forum, review or authority media, vendor or retailer, independent listicle or niche blog, YouTube, news or reference.</p><p>Main results. Twenty-seven of the 30 searches produced an AI Overview; best mattresses, best air purifier and best seo tools did not. Review and authority media appeared in 24 of the 27 AI Overviews, vendor or retailer sites in 20, and Reddit in 11, 41 per cent. Reddit was concentrated in experiential and purchase-advice questions (airlines, SUVs, electric cars, insurance, savings accounts, robot vacuums, refrigerators, project management and CRM software) and absent from all five consumer electronics searches. An AI Overview listed about 6 sources, range 2 to 10. Six searches also ran, with the same wording, in the earlier AI Overview Cited-Domains Study one to two days before; Reddit's presence differed between the two snapshots on three of them.</p><p>Classification. Site type was assigned from each source's title and brand, not by reading the page; the rows are published so any single classification can be disputed. A domain counts once per AI Overview, however prominently placed.</p><p>Contents and limits. The deposit holds data and method notes: the 30 per-query rows as CSV and JSON, byte-identical to the files published with the article, and <code>notes/verify.py</code>, standard library only, which recounts every figure published in the article from the rows. One engine, US English settings, one two-day snapshot, one run per query from one signed-in Chrome profile.</p>",
+  "keywords": [
+    "Google AI Overviews",
+    "AI search",
+    "citation",
+    "generative engine optimization",
+    "Reddit",
+    "industry comparison"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ismybrandinai.com/ai-overview-citations-by-industry",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/minelgunesoglu-code/ai-overview-industry-study",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "The CC BY 4.0 licence applies to the material produced by the author. Publisher names and title fragments in the rows identify third parties and are reproduced as the object of study; brand and product names belong to their owners. See LICENCE-NOTES.md in the archive."
+}

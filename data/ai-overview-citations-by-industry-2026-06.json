@@ -1,0 +1,297 @@
+{
+ "collected": "2026-06-11/2026-06-12",
+ "engine": "Google AI Overview",
+ "locale": "US/EN (&hl=en&gl=us)",
+ "queries": 30,
+ "with_ai_overview": 27,
+ "method": "One query at a time in Chrome. Where an AI Overview appeared, its source panel was opened and every cited source recorded by title/brand.",
+ "classification": {
+  "R": "Reddit",
+  "F": "other forum",
+  "RM": "review/authority media",
+  "V": "vendor or retailer",
+  "L": "independent listicle/niche blog",
+  "YT": "YouTube",
+  "N": "news",
+  "WK": "reference"
+ },
+ "limitations": [
+  "Source type was assigned by hand from the source title/brand, not from the page itself.",
+  "One run per query on one day; AI Overviews vary between runs and over time.",
+  "One locale (US/EN) and one signed-in Chrome profile.",
+  "'no AI Overview' means none appeared on our run; it does not mean none exists.",
+  "Counts are of sources shown in the panel, which may group several links under one entry."
+ ],
+ "rows": [
+  {
+   "vertical": "SaaS / software",
+   "query": "best vpn",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 9,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V|YT",
+   "raw_note": "AIO 9: TechRadar, CNET, PCMag, TheBestVPN (RM), Proton VPN (V), My Vegan Travels (L), YouTube×3 (YT). Reddit: **no**."
+  },
+  {
+   "vertical": "SaaS / software",
+   "query": "best project management software",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 9,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|V",
+   "raw_note": "AIO 9: Reddit (R, #1), Wrike (V)×2, Lark (V), Zapier (V), listicles (L). Reddit: **yes**."
+  },
+  {
+   "vertical": "SaaS / software",
+   "query": "best antivirus software",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "no",
+   "source_types_present": "F|RM|V",
+   "raw_note": "AIO 6: PCMag (RM), PCPartPicker (F), Best Antivirus (V), Win11/Android reviews (RM/L), ESET review. Reddit: **no**; forum yes."
+  },
+  {
+   "vertical": "SaaS / software",
+   "query": "best seo tools",
+   "ai_overview_present": "no",
+   "sources_in_panel": 0,
+   "reddit_in_panel": "",
+   "source_types_present": "",
+   "raw_note": "**no AIO** (confirmed retry)."
+  },
+  {
+   "vertical": "SaaS / software",
+   "query": "best crm for small business",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 7,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|V|YT",
+   "raw_note": "AIO 7: Reddit (R), Monday (V), Zendesk (V), listicles (L), 1 video (YT). Reddit: **yes**."
+  },
+  {
+   "vertical": "Finance / insurance",
+   "query": "best credit cards",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 4,
+   "reddit_in_panel": "no",
+   "source_types_present": "RM",
+   "raw_note": "AIO 4: NerdWallet, Credit Karma, CNBC, Investopedia (RM). Reddit: **no**. Pure authority."
+  },
+  {
+   "vertical": "Finance / insurance",
+   "query": "best car insurance",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 8,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|RM|V",
+   "raw_note": "AIO 8: GEICO (V), U.S. News (RM), The Zebra + 2 quote aggregators (L), Money (RM), Forbes Advisor (RM), Reddit r/Insurance_Companies (R). Reddit: **yes**."
+  },
+  {
+   "vertical": "Finance / insurance",
+   "query": "best high yield savings account",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 5,
+   "reddit_in_panel": "yes",
+   "source_types_present": "R|RM|V",
+   "raw_note": "AIO 5: Bankrate, WSJ, Investopedia (RM), Reddit r/personalfinance (R), Suncoast + Openbank (V/banks). Reddit: **yes**."
+  },
+  {
+   "vertical": "Finance / insurance",
+   "query": "best cd rates",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 4,
+   "reddit_in_panel": "no",
+   "source_types_present": "RM",
+   "raw_note": "AIO 4: Bankrate, NerdWallet + 2 finance-authority (RM). Reddit: **no**. Pure authority."
+  },
+  {
+   "vertical": "Finance / insurance",
+   "query": "best renters insurance",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|RM|V",
+   "raw_note": "AIO 6: NerdWallet, Forbes, MarketWatch (RM), Allstate (V), listicle (L), Reddit (R). Reddit: **yes**."
+  },
+  {
+   "vertical": "Consumer electronics",
+   "query": "best headphones",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 4,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 4: RTINGS (RM), Forbes Vetted (RM), archademia.com (L), Bose (V). Reddit: **no**."
+  },
+  {
+   "vertical": "Consumer electronics",
+   "query": "best laptops",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 6: PCMag (RM), Forbes (RM), listicles (L), MacBook-compare (RM), Amazon (V/retailer). Reddit: **no**."
+  },
+  {
+   "vertical": "Consumer electronics",
+   "query": "best smartphones",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "no",
+   "source_types_present": "RM|V|YT",
+   "raw_note": "AIO 6: CNET, Tech Advisor, ZDNET (RM), Counterpoint (research), T-Mobile (V), YouTube (YT). Reddit: **no**."
+  },
+  {
+   "vertical": "Consumer electronics",
+   "query": "best tvs",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 2,
+   "reddit_in_panel": "no",
+   "source_types_present": "RM",
+   "raw_note": "AIO 2: RTINGS (RM), What Hi-Fi/tech-review (RM). Reddit: **no**."
+  },
+  {
+   "vertical": "Consumer electronics",
+   "query": "best cameras",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "no",
+   "source_types_present": "",
+   "raw_note": "AIO 6: Away Lands, Cotswold Photographer, Beyond the Game, Peter Marks + interview-cameras listicle (all L/niche enthusiast blogs). Reddit: **no**. NO big review media."
+  },
+  {
+   "vertical": "Home / appliances",
+   "query": "best mattresses",
+   "ai_overview_present": "no",
+   "sources_in_panel": 0,
+   "reddit_in_panel": "",
+   "source_types_present": "",
+   "raw_note": "**no AIO** (Shopping; confirmed retry)."
+  },
+  {
+   "vertical": "Home / appliances",
+   "query": "best robot vacuum",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 5,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|RM|V",
+   "raw_note": "AIO 5: Amazon (V), Vacuum Wars (L/niche), TechRadar-style (RM), PCMag-style (RM), YouTube, Reddit r/RobotVacuums (R), Roborock/Dreame reviews. Reddit: **yes**."
+  },
+  {
+   "vertical": "Home / appliances",
+   "query": "best air purifier",
+   "ai_overview_present": "no",
+   "sources_in_panel": 0,
+   "reddit_in_panel": "",
+   "source_types_present": "",
+   "raw_note": "**no AIO** (Shopping; confirmed retry)."
+  },
+  {
+   "vertical": "Home / appliances",
+   "query": "best coffee makers",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 7,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 7: Serious Eats (RM), Seattle Coffee Gear (V/niche), non-toxic/BPA blogs (L), Moccamaster/Fellow reviews (L), Lemon8 (social). Reddit: **no**."
+  },
+  {
+   "vertical": "Home / appliances",
+   "query": "best refrigerator",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 8,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|RM|V",
+   "raw_note": "AIO 8: RTINGS, Consumer Reports, Reviewed (RM), Samsung, Whirlpool (V), Reddit r/BuyItForLife (R), YouTube, ranked-listicle (L). Reddit: **yes**."
+  },
+  {
+   "vertical": "Health / personal care",
+   "query": "best protein powder",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 6,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 6: Forbes Vetted (RM)×2, Amazon (V), 13-best/fitness-goal/which-to-choose health blogs (L). Reddit: **no**."
+  },
+  {
+   "vertical": "Health / personal care",
+   "query": "best running shoes",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 5,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 5: RunRepeat (L/niche), Fleet Feet (V/specialty retailer), Runner's-World-style (RM), tested road-running reviews (RM/L). Reddit: **no**."
+  },
+  {
+   "vertical": "Health / personal care",
+   "query": "best electric toothbrush",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 10,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 10: CNET (RM), Stuff (RM), expert-tested (RM), dental/health blogs (L), local dentist (V). Reddit: **no**."
+  },
+  {
+   "vertical": "Health / personal care",
+   "query": "best multivitamin",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 7,
+   "reddit_in_panel": "yes",
+   "source_types_present": "R|RM|V",
+   "raw_note": "AIO 7: Amazon (V), Fortune, Health Central, U.S. News, RD-reviewed (RM), Reddit (R). Reddit: **yes**."
+  },
+  {
+   "vertical": "Health / personal care",
+   "query": "best sunscreen",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 3,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM|V",
+   "raw_note": "AIO 3: beauty media \"19 Best SPF\" + \"Korean sunscreens, dermatologists\" (RM), Colorescience review + skincare-type blogs (L), Sun Care retailer (V). Reddit: **no**."
+  },
+  {
+   "vertical": "Auto / travel / services",
+   "query": "best cars",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 5,
+   "reddit_in_panel": "no",
+   "source_types_present": "RM|V",
+   "raw_note": "AIO 5: U.S. News, Consumer Reports ×2, Edmunds (RM), CarMax (V). Reddit: **no**. Pure auto authority."
+  },
+  {
+   "vertical": "Auto / travel / services",
+   "query": "best suvs",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 9,
+   "reddit_in_panel": "yes",
+   "source_types_present": "L|R|RM",
+   "raw_note": "AIO 9: Car Talk (RM), tested midsize review (RM), worst-to-best listicles (L), Reddit r/carbuying + r/askcarguys (R), used-deals (L). Reddit: **yes**."
+  },
+  {
+   "vertical": "Auto / travel / services",
+   "query": "best electric cars",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 7,
+   "reddit_in_panel": "yes",
+   "source_types_present": "F|R|RM|V",
+   "raw_note": "AIO 7: Edmunds, Kelley Blue Book, What Car?, SlashGear (RM), Recurrent (V/niche EV), YouTube, Reddit (R), Quora (F), dealer (V). Reddit + forum: **yes**."
+  },
+  {
+   "vertical": "Auto / travel / services",
+   "query": "best airlines for long flights",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 10,
+   "reddit_in_panel": "yes",
+   "source_types_present": "F|L|R|RM",
+   "raw_note": "AIO 10: Reddit ×3 (r/Flights, r/airplanes, economy) **(R, top 3)**, Travel+Leisure (RM), SKYTRAX (RM), Facebook (F/social), Peter Greenberg (L). Reddit: **yes, dominant**."
+  },
+  {
+   "vertical": "Auto / travel / services",
+   "query": "best travel destinations 2025",
+   "ai_overview_present": "yes",
+   "sources_in_panel": 7,
+   "reddit_in_panel": "no",
+   "source_types_present": "L|RM",
+   "raw_note": "AIO 7: Condé Nast Traveler, Tripadvisor, U.S. News Travel, Amex (RM/travel editorial), bucket-list/dream-destination blogs (L). Reddit: **no**."
+  }
+ ]
+}
