@@ -33,3 +33,11 @@ license: CC-BY-4.0
 date-released: '2026-06-12'
 url: https://ismybrandinai.com/ai-overview-citations-by-industry
 repository-code: https://github.com/minelgunesoglu-code/ai-overview-industry-study
+doi: "10.5281/zenodo.23427380"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23427380"
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: "10.5281/zenodo.23427381"
+    description: Version 1.0.0

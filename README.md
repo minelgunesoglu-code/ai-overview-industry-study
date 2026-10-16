@@ -6,7 +6,7 @@
 |---|---|
 | **Article** | https://ismybrandinai.com/ai-overview-citations-by-industry |
 | **Repository** | https://github.com/minelgunesoglu-code/ai-overview-industry-study |
-| **Archive** | DOI: to be added after the Zenodo release |
+| **Archive** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23427380.svg)](https://doi.org/10.5281/zenodo.23427380) concept DOI, resolves to the latest version |
 | **Collected** | 11 to 12 June 2026, by hand, one run per query |
 | **Engine** | Google AI Overview, the source panel it labels "N sites" |
 | **Sample** | 30 "best [category]" buyer searches, five in each of six industries; 27 produced an AI Overview, 3 did not |
